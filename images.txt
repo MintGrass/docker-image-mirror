@@ -6,8 +6,9 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 #个人按需添加
-mysql:8.0.37
-redis:6.2.14
-halohub/halo:2.20
-eclipse-temurin:21-jre
-ibm-semeru-runtimes:open-21-jre
+#mysql:8.0.37
+#redis:6.2.14
+#halohub/halo:2.20
+#eclipse-temurin:21-jre
+#ibm-semeru-runtimes:open-21-jre
+gcr.io/cadvisor/cadvisor:v0.53.0
