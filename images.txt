@@ -13,4 +13,5 @@
 #ibm-semeru-runtimes:open-21-jre
 #gcr.io/cadvisor/cadvisor:v0.52.1
 #grafana/grafana-enterprise:12.1.0
-gogs/gogs:0.14.1
+#gogs/gogs:0.14.1
+ghcr.io/ithtelab/workbuddy-manager:latest
